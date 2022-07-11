@@ -1,7 +1,7 @@
 - 👋 Ola, Eu sou @wendel-sa
-- 👀 Estou interessado em Desenvolvimento Mobile e Web
-- 🌱 Estou estudando React-Native e C#
-- 💞️ Estou de olho em colaboradores em React e c#
+- 👀 Estou interessado em Desenvolvimento Web
+- 🌱 Desenvolvedor fullstack em laravel
+- 💞️ Estou de olho em colaboradores em Laravel e React native
 
 
 <!---
