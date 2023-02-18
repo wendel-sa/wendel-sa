@@ -1,7 +1,7 @@
 - 👋 Ola, Eu sou @wendel-sa
 - 👀 Estou interessado em Desenvolvimento Web
 - 🌱 Desenvolvedor fullstack em laravel
-- 💞️ Estou de olho em colaboradores em Laravel e React native
+- 💞️ Estou de olho em colaboradores em Laravel com Livewire
 
 
 <!---
